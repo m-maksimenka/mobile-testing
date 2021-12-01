@@ -1,0 +1,1 @@
+[Checklist for mobile application testing](https://docs.google.com/spreadsheets/d/185JK43EpqEaQI-LjK51mOr28FOil76qRF2dLijDoI6c/edit?usp=sharing)
